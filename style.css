@@ -1,0 +1,87 @@
+.judul {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 25px;
+  text-align: center;
+  padding-top: 3rem;
+  background-color: rgb(255, 255, 255);
+}
+
+.list-unstyled {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  background-color: rgb(237, 253, 253);
+}
+
+.judull {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 27px;
+  text-align: center;
+  padding-top: 3rem;
+  background-color: rgba(255, 255, 255);
+}
+
+#products {
+  background-color: rgba(165, 209, 215, 0.89);
+}
+
+.judulll {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 27px;
+  text-align: center;
+  padding-top: 3rem;
+  background-color: rgb(255, 255, 255);
+}
+
+#review {
+  background-color: rgb(237, 253, 253);
+}
+
+.judullll {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 27px;
+  text-align: center;
+  padding-top: 3rem;
+  color: red;
+  background-color: rgb(255, 255, 255);
+}
+
+#flashsale {
+  background-color: rgba(165, 209, 215, 0.89);
+}
+
+.atas {
+  background-color: rgba(165, 209, 215, 0.89);
+  font-weight: bold;
+}
+
+.bawah {
+  background-color: rgba(165, 209, 215, 0.89);
+  font-weight: bold;
+}
+
+.card-textt {
+  font-size: 50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.card-text {
+  font-size: 20px;
+}
+
+#promo {
+  background-color: rgb(237, 253, 253);
+}
+
+section {
+  padding-top: 2rem;
+}
+
+#footer {
+  background-color: black;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  font-size: 15px;
+}
